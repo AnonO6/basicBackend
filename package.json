@@ -1,0 +1,16 @@
+{
+  "name": "firstback",
+  "version": "1.0.0",
+  "description": "Basic working of backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Aviral Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3"
+  }
+}
